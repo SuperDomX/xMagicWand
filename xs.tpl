@@ -1,3 +1,3 @@
-<iframe src="/" width='375' height="559">
-</iframe>
+<iframe src="/" width='100%' height="559" frameborder=0>
 
+</iframe>
